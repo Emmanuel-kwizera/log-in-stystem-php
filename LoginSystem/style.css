@@ -1,0 +1,30 @@
+body{
+    font-family: Dosis; 
+    margin: 0;
+}
+#main{
+    margin: 5%;
+    font-size: 20px;
+}
+#status{
+    font-size: 22px; 
+    font-weight: bold;    
+}
+input{
+    width: 80%;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+button{
+    width: 200px;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.asLink{
+    cursor: pointer;
+}
